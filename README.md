@@ -1,6 +1,6 @@
 ## Note taker
 
-You can use the [the git hub repo to use the app](https://github.com/masterkaizer/Homework11/edit/master/README.md) 
+You can use the [the git hub repo to use the app](https://github.com/masterkaizer/Homework11/) 
 ### Markdown
 
 open  the app in the terminal /
