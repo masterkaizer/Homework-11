@@ -1,20 +1,15 @@
 {
-  "name": "notetaker-brandonsellam",
+  "name": "note-taker",
   "version": "1.0.0",
-  "description": "This an note tacker app",
+  "description": "this is an note tacker",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/masterkaizer/NoteTaker-BrandonSellam.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Brandon J Sellam",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/masterkaizer/NoteTaker-BrandonSellam/issues"
-  },
-  "homepage": "https://github.com/masterkaizer/NoteTaker-BrandonSellam#readme"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.16.0"
+  }
 }
