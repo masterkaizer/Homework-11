@@ -6,7 +6,8 @@ node server
 / deploye that link on your chrome then have fun 
 http://localhost:8080/notes
 
-
+you use this link for the app
+https://note6bs.herokuapp.com/
 
 ### Contact me 
 
